@@ -14,7 +14,7 @@ This project involves data cleaning, KPI evaluation, and data visualization for 
 * [License](#license)
 
 <span id="project-overview"></span>
-# Project Overview
+## Project Overview
 This project focuses on cleaning a source CSV file by removing null values, renaming columns, handling duplicate KPI names and generating new columns that provide valuable insight into a hotel's expenses. The cleaned data is then used to evaluate Key Performance Indicators (KPIs) such as Cost Per Occupied Room (CPOR), percentage differences between two years, percentage expenses within expense groups, and expense ratios.
 <span id="data-cleaning"></span>
 ## Data Cleaning
